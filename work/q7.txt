@@ -1,0 +1,22 @@
+https://powcoder.com
+代写代考加微信 powcoder
+Assignment Project Exam Help
+Add WeChat powcoder
+# COMP9315 20T1 Final Exam Q7
+  
+Type your answer(s) to replace the xxx's
+Submit this file as your answer for Q7
+
+T1: R(X) W(X)           R(Y)                W(Y)
+T2:           R(Y)           R(X) W(Y)           W(X)
+T3:                R(X)                R(Y)           W(X) W(Y)
+
+
+a. Conflict serializability
+
+xxx
+
+b.  View serializability
+
+xxx
+
